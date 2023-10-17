@@ -1,4 +1,4 @@
-# 2D-Gaussian-Splatting
+# 2D Gaussian Splatting
 A 2D Gaussian Splatting for 2D images for no obvious reasons. Enjoy!
 
 
