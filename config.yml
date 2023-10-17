@@ -1,0 +1,12 @@
+KERNEL_SIZE: 101
+image_size: [256, 256, 3]
+primary_samples: 1000
+backup_samples: 4000
+num_epochs: 2001
+densification_interval: 300
+learning_rate: 0.01
+image_file_name: "Image-01.png"
+display_interval: 100
+gradient_threshold: 0.002
+gaussian_threshold: 0.75
+display_loss: False
