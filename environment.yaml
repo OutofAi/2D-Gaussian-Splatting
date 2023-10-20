@@ -1,0 +1,16 @@
+name: 2d_gaussian_splatting
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - numpy
+  - python
+  - pytorch
+  - pillow
+  - pip
+  - matplotlib
+  - imageio
+  - requests
+  - pyyaml
+  - ipykernel
