@@ -3,7 +3,7 @@ A 2D Gaussian Splatting for 2D images for no obvious reasons. Enjoy!
 
 Open in Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/2D-Gaussian-Splatting/blob/main/2D_Gaussian_Splatting.ipynb)
 
-Also support my channel ☕ ☕ : https://ko-fi.com/outofai
+Also support my channel ☕ ☕ : https://www.buymeacoffee.com/outofai
 
 Any Questions feel free to ask me on X https://twitter.com/OutofAi
 
