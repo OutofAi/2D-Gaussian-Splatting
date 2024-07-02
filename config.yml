@@ -8,5 +8,5 @@ learning_rate: 0.01
 image_file_name: "Image-01.png"
 display_interval: 100
 gradient_threshold: 0.002
-gaussian_threshold: 0.002
+gaussian_threshold: 0.75
 display_loss: False
