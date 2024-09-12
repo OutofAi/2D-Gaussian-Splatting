@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Alex%20Nasa)](https://twitter.com/banterless_ai)
 
 # 2D Gaussian Splatting
-A 2D Gaussian Splatting for 2D images for no obvious reasons. Enjoy!
+A 2D Gaussian Splatting for 2D images. Enjoy!
 
 Open in Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/2D-Gaussian-Splatting/blob/main/2D_Gaussian_Splatting.ipynb)
 
