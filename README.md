@@ -8,3 +8,6 @@ Open in Colab : [![Open In Colab](https://colab.research.google.com/assets/colab
 
 https://github.com/OutofAi/2D-Gaussian-Splatting/assets/145302363/8a48f340-4ccc-48bb-b299-14fd0373f878
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=OutofAi/2D-Gaussian-Splatting&type=Date)](https://star-history.com/#OutofAi/2D-Gaussian-Splatting&Date)
